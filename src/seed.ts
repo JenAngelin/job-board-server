@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 
-import jobsData from "../../db.json";
+import jobsData from "../db.json";
 import { Job } from "./models/Job";
 
 dotenv.config();

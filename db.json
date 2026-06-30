@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "QA Test Engineer",
+      "description": "Responsible for designing and executing test cases, identifying bugs, ensuring product quality across web and mobile application.",
+      "minSalary": 400000,
+      "maxSalary": 1000000,
+      "location": "Chicago",
+      "type": "Full Time",
+      "status": "OPEN",
+      "company": {
+        "name": "Paychex",
+        "logo": "/logos/paychex.png"
+      }
+    },
+    {
+      "id": "2",
+      "title": "GCP AI/ML",
+      "description": "Works on building and deploying machine learning models on Google Cloud Platform, including data pipelines, model training, and optimization.",
+      "minSalary": 800000,
+      "maxSalary": 2200000,
+      "location": "Chennai",
+      "type": "Part Time",
+      "status": "CLOSED",
+      "company": {
+        "name": "Cognizant",
+        "logo": "/logos/cognizant.png"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Agentic Software Engineer",
+      "description": "Develops AI-driven autonomous systems and agent-based applications that can reason, plan, and execute tasks with minimal human initervention.",
+      "minSalary": 1000000,
+      "maxSalary": 3000000,
+      "location": "Bangalore",
+      "type": "Full Time",
+      "status": "DRAFT",
+      "company": {
+        "name": "Deloitte",
+        "logo": "/logos/deloitte.png"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Cybersecurity Analyst",
+      "description": "Monitors systems for security threats, performs vulnerability assessments, and helps protect organizational data",
+      "minSalary": 600000,
+      "maxSalary": 1800000,
+      "location": "Hyderabad",
+      "type": "Contract",
+      "status": "OPEN",
+      "company": {
+        "name": "Google",
+        "logo": "/logos/google.png"
+      }
+    },
+    {
+      "id": "5",
+      "title": "UI/UX Developer",
+      "description": "Design intuitive user interfaces and create engaging user experiences",
+      "minSalary": 500000,
+      "maxSalary": 1000000,
+      "location": "Pune",
+      "type": "Part Time",
+      "status": "DRAFT",
+      "company": {
+        "name": "Netflix",
+        "logo": "/logos/netflix.png"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Digital Marketing Specialist",
+      "description": "Plana nd execute online marketing campaigns across social media and search platforms",
+      "minSalary": 400000,
+      "maxSalary": 800000,
+      "location": "Mumbai",
+      "type": "Contract",
+      "status": "CLOSED",
+      "company": {
+        "name": "Amazon",
+        "logo": "/logos/amazon.png"
+      }
+    }
+  ]
+}
